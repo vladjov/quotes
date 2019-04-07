@@ -6,7 +6,7 @@
 	const quotes = [
 		{
 			quote: 
-				"Life is too short and sweet to be spent by cribbing and complaining about things. Here are some random quotes about most wonderful fift that we've got.",
+				"Some testing text.",
 			author: "Life"
 		},
 		{
